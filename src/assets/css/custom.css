@@ -1,0 +1,244 @@
+
+.TopFixedBanner{
+    background-image: url(../images/banner.jpg);
+    background-attachment: fixed;
+    min-height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #292525;
+    font-size: 1rem;
+    
+     
+}
+.Footermenu{
+    margin-left: 30%;
+}
+
+.topBannerOverlay{
+    min-height: 500px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.3);
+}
+.bannerContent{
+    padding-top: 8rem;
+}
+.bannerTitle{
+    color: #fff;
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+.bannerHeading{
+    color: #fff;
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 48px;
+    font-weight: 700;
+    width: 55%;
+    margin: 15px 0 20px;
+}
+.bannerLink{
+    color: #fff;
+    background-color: #09338f;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    
+
+}
+.bannerLink:hover{
+    background-color: #fff;
+    color: #09338f;
+    transition: 0.5s;
+}
+.Analysis{
+    padding-top: 80px;
+}
+.Image img{
+    border-radius: 1rem;
+    
+}
+
+.AnalysisContent{
+    font-size: 3rem;
+    font-weight: 700;
+}
+.AnalysisContentText{
+    font-size: 18px;
+    color: hsl(240, 1%, 45%);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.Services{
+    padding: 100px 0;
+}
+.ServiceTitle{
+    padding: 50px 0;
+    text-align: center;
+}
+.ServiceTitle h1{
+    font-weight: 600;
+}
+.ServiceTitle p{
+    font-size: 18px;
+
+}
+.Service{
+    background-color: #819bd1;
+    padding: 30px;
+    border: 1px solid #292525;
+    margin-bottom: 10px; 
+    text-align: center;
+} 
+
+.Service:hover{
+    background-color: #e1e4eb;
+    transition: 2s;
+    
+    
+}
+.serviceBox:hover{
+    background-color: #f05d7d;
+    transition: 1s;
+    bottom: -10px;
+}
+.counter-bg{
+    background-color: #2a3c4e;
+    padding: 2rem;
+    color: #ddd;
+    border: 1px solid #504d4d;
+}
+.navTitleScroll{
+color: #e08585;
+}
+.navScrollBackground{
+background-color: #c32c2c;
+}
+.navBarItem{
+    color: #fff;
+}
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  .mt{
+    margin-top: 80px;
+  }
+  .mb{
+    margin-bottom: 80px;
+  }
+  .footer{
+    padding: 20px 0 10px;
+    background-color: #b3b8bc;
+  }
+  .footer1 {
+    margin-left: 40px;
+    margin-top: 20px;
+  }
+  .footer1 h2{
+    font-size: 22px;
+    color: #0000ff;
+    font-weight: 600;
+  } 
+  .footer2 h4{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 22px;
+    color: #0000ff;
+  }
+  .footer2 li{
+    margin-bottom: 10px;
+  }
+  .footer2 li a:hover{
+    color: #0056b3;
+    font-size: 20px;
+  }
+  .footer3{
+    margin-left: 80px;
+  }
+  .footer3 h4{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 25px;
+    color: #0000ff;
+  }
+  .footer3 li{
+    margin-bottom: 15px;
+  }
+  .SummaryContent2{
+    font-size: 30px;
+  }
+ .sponsor{
+  background-color:#819bd1;
+  padding: 15px;
+ }
+ .sidemenu a{
+  text-decoration: none;
+  color: #ddd;
+  font-size: 22px;
+  margin-bottom: 15px;
+ }
+ .sidemenu a:hover{
+  color: #819bd1
+ }
